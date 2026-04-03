@@ -13,8 +13,6 @@
 #include <Preferences.h>
 
 // ------------ CONFIGURAÇÕES ------------
-#define WIFI_SSID "FALCAO"
-#define WIFI_PASSWORD "{L2o0B1o6}"
 
 #define API_KEY "AIzaSyDiy0ppbDGrp0H7ZVDTbojbUHZpEE7ZuCU"
 #define PROJECT_ID "meteo-d18e3" // ex: "weather-station-1234"
